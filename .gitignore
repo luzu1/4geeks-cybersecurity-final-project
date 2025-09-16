@@ -1,0 +1,11 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
