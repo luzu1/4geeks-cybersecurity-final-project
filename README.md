@@ -20,16 +20,16 @@ Este proyecto final integra un **ejercicio práctico de Pentesting** con el dise
 
 ---
 
-## 📂 Contenido
-- 📑 [Informe Detallado del Análisis Pentesting y Corrección de Vulnerabilidades](docs/Informe%20Detallado%20del%20An%C3%A1lisis%20Pentesting%20y%20Correcci%C3%B3n%20de%20Vulnerabilidades.pdf) → Análisis de vulnerabilidades en FTP, SSH, WordPress.  
+##  Contenido
+-  [Informe Detallado del Análisis Pentesting y Corrección de Vulnerabilidades](docs/Informe%20Detallado%20del%20An%C3%A1lisis%20Pentesting%20y%20Correcci%C3%B3n%20de%20Vulnerabilidades.pdf) → Análisis de vulnerabilidades en FTP, SSH, WordPress.  
 
-- 📑 [Plan de recuperación y Backup](docs/Plan%20de%20recuperacion%20y%20Backup.pdf) → Continuidad y respaldos, RTO/RPO, incident response.  
+-  [Plan de recuperación y Backup](docs/Plan%20de%20recuperacion%20y%20Backup.pdf) → Continuidad y respaldos, RTO/RPO, incident response.  
 
-- 📑 [Proyecto Final](docs/Proyecto_Final.pdf) → Resumen de vulnerabilidades críticas y mitigación.  
+-  [Proyecto Final](docs/Proyecto_Final.pdf) → Resumen de vulnerabilidades críticas y mitigación.  
 
-- 📑 [Sistema de Gestión de Seguridad de la Información (SGSI) – 4Geeks Academy](docs/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)%20-%204Geeks%20Academy-2.pdf) → Modelo SGSI con matriz de riesgos y políticas de seguridad.  
+-  [Sistema de Gestión de Seguridad de la Información (SGSI) – 4Geeks Academy](docs/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)%20-%204Geeks%20Academy-2.pdf) → Modelo SGSI con matriz de riesgos y políticas de seguridad.  
 
-- 🖼 [Topología de Red](images/topologiaFinal.png) → Diagrama del entorno atacado y defendido.  
+-  [Topología de Red](images/topologiaFinal.png) → Diagrama del entorno atacado y defendido.  
 
  
 
