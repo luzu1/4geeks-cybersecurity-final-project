@@ -21,12 +21,12 @@ Este proyecto final integra un **ejercicio práctico de Pentesting** con el dise
 ---
 
 ##  Contenido
-## 📂 Contenido
-- 📑 [Informe de Pentesting](docs/Informe_Pentesting.pdf) → Análisis de vulnerabilidades en FTP, SSH, WordPress.  
-- 📑 [Plan de Recuperación y Backup](docs/Plan_Recuperacion_Backup.pdf) → Continuidad y respaldos, RTO/RPO, incident response.  
-- 📑 [Proyecto Final](docs/Proyecto_Final.pdf) → Resumen de vulnerabilidades críticas y mitigación.  
-- 📑 [SGSI 4Geeks](docs/SGSI_4Geeks.pdf) → Modelo SGSI con matriz de riesgos y políticas de seguridad.  
-- 🖼 [Topología de Red](images/topologia.png) → Diagrama del entorno atacado y defendido.  
+##  Contenido
+-  [Informe de Pentesting](docs/Informe_Pentesting.pdf) → Análisis de vulnerabilidades en FTP, SSH, WordPress.  
+-  [Plan de Recuperación y Backup](docs/Plan_Recuperacion_Backup.pdf) → Continuidad y respaldos, RTO/RPO, incident response.  
+-  [Proyecto Final](docs/Proyecto_Final.pdf) → Resumen de vulnerabilidades críticas y mitigación.  
+-  [SGSI 4Geeks](docs/SGSI_4Geeks.pdf) → Modelo SGSI con matriz de riesgos y políticas de seguridad.  
+-  [Topología de Red](images/topologia.png) → Diagrama del entorno atacado y defendido.  
 
 ---
 
@@ -56,8 +56,4 @@ Este proyecto permitió:
 
 ---
 
-## 🖼 Evidencia visual
-![Topología](images/topologia.png)
-
----
 
