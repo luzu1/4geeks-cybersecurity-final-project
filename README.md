@@ -1,9 +1,5 @@
 # Proyecto Final – Pentesting & SGSI (4Geeks Academy)
 
- Fecha: Febrero 2025  
- Curso: 4Geeks Academy – Ciberseguridad  
-
----
 
 ##  Descripción
 Este proyecto final integra un **ejercicio práctico de Pentesting** con el diseño de un  
