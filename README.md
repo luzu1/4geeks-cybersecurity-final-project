@@ -1,6 +1,6 @@
 # 4geeks-cybersecurity-final-project
 
-# 🛡️ Proyecto Final – Pentesting & SGSI (4Geeks Academy)
+# Proyecto Final – Pentesting & SGSI (4Geeks Academy)
 
  Fecha: Febrero 2025  
  Autor: Luciano Matias Zuccardi  
